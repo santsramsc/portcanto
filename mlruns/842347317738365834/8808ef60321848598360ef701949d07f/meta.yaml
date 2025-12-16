@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/csant/Documents/CURSO%20IA%20IOC/M03/U5/portcanto/mlruns/842347317738365834/8808ef60321848598360ef701949d07f/artifacts
+end_time: 1765879776658
+entry_point_name: ''
+experiment_id: '842347317738365834'
+lifecycle_stage: active
+run_id: 8808ef60321848598360ef701949d07f
+run_name: KMeans_K=5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765879774487
+status: 3
+tags: []
+user_id: csant

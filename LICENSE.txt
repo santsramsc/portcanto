@@ -1,0 +1,19 @@
+MIT License
+
+Copyright (c) 2025 Carlos Santos Ramos
+
+Es concedeix permís, sense càrrec, a qualsevol persona que obtingui una còpia
+d'aquest software i fitxers de documentació associats (el "Software"), per tractar
+el Software sense restriccions, incloent, sense limitació, els drets a usar, copiar,
+modificar, fusionar, publicar, distribuir, sublicenciar i/o vendre còpies del Software,
+i permetre a les persones a qui es proporcioni el Software fer-ho, subjecte a les
+seguents condicions:
+
+El text de copyright i aquest avís de permís s'han d'incloure en totes les còpies
+o parts substancials del Software.
+
+EL SOFTWARE ES PROPORCIONA "TAL QUAL", SENSE GARANTIA DE CAP TIPUS, EXPLÍCITA O IMPLÍCITA,
+INCLOSA, PERÒ NO LIMITADA A GARANTIES DE COMERCIALITZACIÓ, ADEQUACIÓ PER UN PROPÒSIT
+ESPECÍFIC I NO INFRACCIÓ. EN CAP CAS ELS AUTORS O TITULARS DEL COPYRIGHT SERAN RESPONSABLES
+DE CAP RECLAMACIÓ, DANY O ALTRE RESPONSABILITAT, JA SIGUI EN ACCIÓ CONTRACTUAL, ACTE IL·LEGAL
+O D'ALTRES, PROVINGUI DEL SOFTWARE O L'ÚS O ALTRES ACCIONS EN EL SOFTWARE.

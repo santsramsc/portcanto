@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module P2.clustersciclistes</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong><a href="P2.html"><font color="#ffffff">P2</font></a>.clustersciclistes</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:c%3A%5Cusers%5Ccsant%5Cdocuments%5Ccurso%20ia%20ioc%5Cm03%5Cu5%5Cportcanto%5Cp2%5Cclustersciclistes.py">c:\users\csant\documents\curso ia ioc\m03\u5\portcanto\p2\clustersciclistes.py</a></font></td></tr></table>
+    <p><tt>@&nbsp;IOC&nbsp;-&nbsp;CE&nbsp;IABD<br>
+Script&nbsp;per&nbsp;analitzar&nbsp;el&nbsp;Port&nbsp;del&nbsp;Cantó&nbsp;amb&nbsp;clustering&nbsp;de&nbsp;ciclistes</tt></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="logging.html">logging</a><br>
+<a href="numpy.html">numpy</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+<a href="pandas.html">pandas</a><br>
+</td><td width="25%" valign=top><a href="pickle.html">pickle</a><br>
+<a href="matplotlib.pyplot.html">matplotlib.pyplot</a><br>
+</td><td width="25%" valign=top><a href="seaborn.html">seaborn</a><br>
+</td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#eeaa77">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Functions</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#eeaa77"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt><a name="-associar_clusters_patrons"><strong>associar_clusters_patrons</strong></a>(tipus, model)</dt><dd><tt>Associa&nbsp;els&nbsp;labels&nbsp;del&nbsp;clustering&nbsp;amb&nbsp;els&nbsp;patrons&nbsp;reals</tt></dd></dl>
+ <dl><dt><a name="-clean"><strong>clean</strong></a>(df)</dt><dd><tt>Neteja&nbsp;de&nbsp;les&nbsp;dades:&nbsp;elimina&nbsp;id&nbsp;i&nbsp;tt</tt></dd></dl>
+ <dl><dt><a name="-clustering_kmeans"><strong>clustering_kmeans</strong></a>(data, n_clusters=4)</dt><dd><tt>Crea&nbsp;i&nbsp;entrena&nbsp;el&nbsp;model&nbsp;KMeans</tt></dd></dl>
+ <dl><dt><a name="-exploratory_data_analysis"><strong>exploratory_data_analysis</strong></a>(df)</dt><dd><tt>Exploratory&nbsp;Data&nbsp;Analysis&nbsp;del&nbsp;dataframe</tt></dd></dl>
+ <dl><dt><a name="-extract_true_labels"><strong>extract_true_labels</strong></a>(df)</dt><dd><tt>Guardem&nbsp;les&nbsp;etiquetes&nbsp;dels&nbsp;ciclistes&nbsp;(tipus)</tt></dd></dl>
+ <dl><dt><a name="-generar_informes"><strong>generar_informes</strong></a>(df, tipus)</dt><dd><tt>Genera&nbsp;fitxers&nbsp;d'informes&nbsp;per&nbsp;cada&nbsp;clúster</tt></dd></dl>
+ <dl><dt><a name="-load_dataset"><strong>load_dataset</strong></a>(path)</dt><dd><tt>Carrega&nbsp;el&nbsp;dataset&nbsp;de&nbsp;registres&nbsp;dels&nbsp;ciclistes</tt></dd></dl>
+ <dl><dt><a name="-nova_prediccio"><strong>nova_prediccio</strong></a>(dades, model)</dt><dd><tt>Classifica&nbsp;nous&nbsp;ciclistes</tt></dd></dl>
+ <dl><dt><a name="-visualitzar_clusters"><strong>visualitzar_clusters</strong></a>(df, labels, path_img='img/clusters.png')</dt><dd><tt>Visualitza&nbsp;els&nbsp;clusters&nbsp;amb&nbsp;colors&nbsp;diferents</tt></dd></dl>
+ <dl><dt><a name="-visualitzar_pairplot"><strong>visualitzar_pairplot</strong></a>(df, path_img='img/pairplot.png')</dt><dd><tt>Genera&nbsp;un&nbsp;pairplot&nbsp;dels&nbsp;atributs</tt></dd></dl>
+</td></tr></table>
+</body></html>

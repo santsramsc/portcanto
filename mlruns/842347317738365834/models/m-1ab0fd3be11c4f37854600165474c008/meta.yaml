@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/csant/Documents/CURSO%20IA%20IOC/M03/U5/portcanto/mlruns/842347317738365834/models/m-1ab0fd3be11c4f37854600165474c008/artifacts
+creation_timestamp: 1765881311119
+experiment_id: '842347317738365834'
+last_updated_timestamp: 1765881313037
+model_id: m-1ab0fd3be11c4f37854600165474c008
+model_type: null
+name: KMeans_3
+source_run_id: c34238c8366f4bcaac54ddff48ddbc8c
+status: 2
+status_message: null

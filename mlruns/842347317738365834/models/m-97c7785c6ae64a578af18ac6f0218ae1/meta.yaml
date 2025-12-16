@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/csant/Documents/CURSO%20IA%20IOC/M03/U5/portcanto/mlruns/842347317738365834/models/m-97c7785c6ae64a578af18ac6f0218ae1/artifacts
+creation_timestamp: 1765879776854
+experiment_id: '842347317738365834'
+last_updated_timestamp: 1765879778804
+model_id: m-97c7785c6ae64a578af18ac6f0218ae1
+model_type: null
+name: model
+source_run_id: c3f6f0f26b104f99a218b43d1657a408
+status: 2
+status_message: null

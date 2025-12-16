@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/csant/Documents/CURSO%20IA%20IOC/M03/U5/portcanto/mlruns/842347317738365834/models/m-95c7cbbc60034afdb15aeb89434a53cb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-95c7cbbc60034afdb15aeb89434a53cb
+model_size_bytes: 1231
+model_uuid: m-95c7cbbc60034afdb15aeb89434a53cb
+prompts: null
+run_id: a9b7ef912dec44438135833c42bdef1b
+utc_time_created: '2025-12-16 10:09:41.262205'
